@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am a computer science student from Brazil with an ever-growing interest in software.
+
+<!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocamargodacosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThiagoCamargoDaCosta Status](https://github-readme-stats.vercel.app/api?username=thiagocamargodacosta&show_icons=true)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocamargodacosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
